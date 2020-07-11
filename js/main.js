@@ -1,4 +1,3 @@
-debugger
 import {Veloster, Lancer, Impreza, Gol, Rio3} from './vehiculos.js'
 
 const modal = M.Modal.init(document.getElementById('modal1'), {});
